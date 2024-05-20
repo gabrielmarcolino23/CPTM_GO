@@ -2,3 +2,4 @@
 theme/static
 theme/static_src
 db.sqlite3
+.DS_Store
