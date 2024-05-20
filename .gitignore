@@ -1,0 +1,4 @@
+.env
+theme/static
+theme/static_src
+db.sqlite3
