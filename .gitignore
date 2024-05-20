@@ -1,6 +1,4 @@
 .env
-theme/static/
-theme/static_src/
 theme/__pycache__/
 db.sqlite3
 .DS_Storex
