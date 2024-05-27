@@ -1,0 +1,47 @@
+header {
+    background-color: white;
+    height: 20px;
+}
+
+.planejeSuaViagem {
+    background-color: #A7A7A7;
+    padding: 10px;
+}
+
+#bPlanejeSuaViagem {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.whiteButton {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.mapaCPTM {
+    display: flex;
+}
+
+.grayButton {
+    background-color: #D9D9D9;
+    color: #000000;
+}
+
+.contatos {
+    display: flex;
+}
+
+.logos {
+    display: flex;
+}
+
+footer {
+    background-color: #A7A7A7;
+    color: #000000;
+    text-align: center;
+}
